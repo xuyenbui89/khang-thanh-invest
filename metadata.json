@@ -1,0 +1,6 @@
+{
+  "name": "CRM TRỌ - MINIHOUSE",
+  "description": "Hệ thống quản lý vận hành cho thuê nhà trọ, minihouse chuyên nghiệp với phân quyền 4 cấp, tính hoa hồng, chấm công GPS, AI hỗ trợ bài đăng & vinh danh.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
